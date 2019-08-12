@@ -1,0 +1,66 @@
+html {
+	background-color: white;
+	color: #000000;
+	margin-top: 75px;
+}
+
+.navbar {
+	height: 75px;
+	width: 100%;
+	display: inline-block;
+	background-color: #f7f7f7;
+	position: fixed;
+	top: 0;
+	left: 0;
+	background-image: linear-gradient(#1FC909, white, white)
+}
+
+.navbar img {
+	height: 100%;
+	display: inline-block;
+}
+
+.navbar ul {
+	style: none;
+	display: inline-block;
+	position: absolute;
+	top: 40%;
+	margin: 0;
+}
+
+.navbar li {
+	style: none;
+	display: inline-block;
+	
+}
+
+.parkImg {
+	height:100%;
+	width: auto;
+}
+
+a {
+	color: #BC3301;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+
+tr {
+	border-top: 2px black solid;
+}
+.weather img {
+	height: 20%;
+}
+
+h1 {
+	font-size: 20px;
+}
+#name {
+	font-size: 30px;
+	
+}
+
+.error {
+	color: red;
+}
